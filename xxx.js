@@ -1,7 +1,7 @@
 
 const watchURL = "https://watchvarseax.blogspot.com/p/one_11.html";
 const downloadURL = "https://watchvarseax.blogspot.com/p/one_11.html";
-const redirectURL = "https://cutl.io/link10-20-12-25";
+const redirectURL = "https://cutl.io/link4-20-12-25";
 
 function go(link){
   let win = window.open(link, "_blank");
