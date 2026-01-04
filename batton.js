@@ -1,7 +1,7 @@
 /* GO FUNCTION */
-const watchURL    = "https://watchbdree.blogspot.com/p/blog-page.html";
-const downloadURL = "https://watchbdree.blogspot.com/p/blog-page.html";
-const redirectURL = "https://zmistar.blogspot.com/";
+const watchURL    = "https://cutl.io/link9-02-1-26";
+const downloadURL = "https://cutl.io/link9-02-1-26";
+const redirectURL = "https://cutl.io/link4-02-1-26";
 
 function go(link) {
   try {
