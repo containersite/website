@@ -1,29 +1,13 @@
-.text-box {
-      max-width: 90%;          /* Small screens-friendly */
-      width: 400px;            /* Large screens default width */
-      padding: 20px;
-      border: 2px solid #FF5722;
-      border-radius: 12px;
-      background: #FFF3E0;
-      font-size: 18px;
-      color: #BF360C;
+    .text-box {
+      width: 350px;              
+      padding: 20px;              
+      border: 2px solid #FF5722; 
+      border-radius: 12px;        
+      background: #FFF3E0;        
+      font-family: 'SolaimanLipi', Arial, sans-serif; /* Bangla-friendly font */
+      font-size: 18px;            
+      color: #BF360C;             
       text-align: center;
-      box-shadow: 3px 3px 12px rgba(0,0,0,0.2);
-      transition: all 0.3s ease; /* Smooth responsiveness */
-    }
-
-    /* Small screen adjustments */
-    @media screen and (max-width: 480px) {
-      .text-box {
-        font-size: 16px;
-        padding: 15px;
-      }
-    }
-
-    /* Very large screens adjustment */
-    @media screen and (min-width: 1200px) {
-      .text-box {
-        font-size: 20px;
-        width: 450px;
-      }
+      box-shadow: 3px 3px 12px rgba(0,0,0,0.2); 
+      margin: 50px auto;          /* Box page-er center-e */
     }
